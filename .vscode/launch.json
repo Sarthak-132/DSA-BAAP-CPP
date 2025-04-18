@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/PLACEMENT_PREPARATION/DSA-BAAP-CPP/Fundamentals-of-programming/Basics-of-language",
-      "program": "e:/PLACEMENT_PREPARATION/DSA-BAAP-CPP/Fundamentals-of-programming/Basics-of-language/build/Debug/outDebug",
+      "cwd": "e:/PLACEMENT_PREPARATION/DSA-BAAP-CPP/1.LearnTheBasics/1.Things_to_know_in_CPP/if-else",
+      "program": "e:/PLACEMENT_PREPARATION/DSA-BAAP-CPP/1.LearnTheBasics/1.Things_to_know_in_CPP/if-else/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
