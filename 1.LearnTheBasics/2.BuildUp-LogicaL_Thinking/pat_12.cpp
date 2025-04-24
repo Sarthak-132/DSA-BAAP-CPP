@@ -8,7 +8,7 @@ using namespace std;
 
 void pattern12(int n){
 
-    int space = 2*(n-1);
+    int space = 2*(n - 1);
     
     for(int i = 1 ; i <= n; i++){
 
