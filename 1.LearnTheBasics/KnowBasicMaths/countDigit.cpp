@@ -72,7 +72,7 @@ int countDigits(int n){
 
 
 int main() {
-    int N = 329823;
+    int N = 32982354;
     cout << "N: "<< N << endl;
     int digits = countDigits(N);
     cout << "Number of Digits in N: "<< digits << endl;

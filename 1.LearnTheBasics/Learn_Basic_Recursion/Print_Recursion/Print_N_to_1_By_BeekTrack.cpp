@@ -13,7 +13,7 @@ void beekTrack(int i , int n){
     cout << i << " ";
 
 }
- 
+
 int main() {
     
     int n, i = 1;
@@ -23,7 +23,6 @@ int main() {
     beekTrack(i , n);
     
     cout << i << " ";
-
     
     return 0;
 }

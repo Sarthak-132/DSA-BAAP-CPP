@@ -4,7 +4,7 @@ using namespace std;
  
 int reverseNumber(int n){
     int revNum = 0;
-
+ 
     while(n > 0){
         int lastdigit = n % 10;
         revNum = revNum * 10 + lastdigit;
